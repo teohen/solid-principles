@@ -1,0 +1,24 @@
+{
+  "name": "solid-principles",
+  "version": "1.0.0",
+  "description": "a project showing the applications of the SOLID principles",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && jest ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teohen/solid-principles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teohen/solid-principles/issues"
+  },
+  "homepage": "https://github.com/teohen/solid-principles#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.1.0",
+    "typescript": "^4.4.2"
+  }
+}
